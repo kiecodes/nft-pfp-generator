@@ -16,7 +16,7 @@ This repository includes all the code written in the video.
 
 ## Instructions
 * Check out this repository
-* Install all system dependencies for node canfas according ([more](https://github.com/Automattic/node-canvas#compiling))
+* Install all system dependencies for node canvas according ([more](https://github.com/Automattic/node-canvas#compiling))
 * Run `npm install` to install all the necessary dependencies
 * Adjust content to your liking
 * Run `node index.js` to generate your own art for your NFT collection
